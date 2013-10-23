@@ -1,8 +1,9 @@
-Example of modyfying a collection
+Example of modifying a collection
 =========================
 
 ## Overview
-
+based on guide: https://help.rallydev.com/apps/2.0rc1/doc/#!/guide/collections_in_v2
+with a workaround for TypeError: Object has no method 'getModel' when adding defects to Defects collection on a story
 
 ## License
 
